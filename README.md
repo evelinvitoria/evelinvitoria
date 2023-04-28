@@ -4,14 +4,37 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evelin-vit%C3%B3ria-de-lima-felix-b70579254/)<br/>
 ![Evelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=evelinvitoria&show_icons=true&theme=synthwave)
 
-## Tecnologias que uso.
 
-<div style="display: inline_block"><br/>
-    <img aling= "center" alt= "code pen" scr="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
-    <img aling= "center" alt= "html5" scr="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img aling= "center" alt= "css" scr="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img aling= "center" alt= "Javascript" scr="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img aling= "center" alt= "Node.js" scr="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img aling= "center" alt= "Python" scr="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    
+<div style="display: flex; justify-content: space-between;"> <br>
+  <img align="left"height="150" alt="coding-time" src="code.gif">
+  <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
 </div>
+
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
+
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">Melhores Tecnologias <3</h1>
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+   </div>
+
+
+ 
+
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
