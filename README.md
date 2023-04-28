@@ -2,7 +2,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https//:evelinvlf@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evebibi_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evelin-vit%C3%B3ria-de-lima-felix-b70579254/)<br/>
-![Evelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=evelinvitoria&show_icons=true&theme=synthwave)
 
 
 <div style="display: flex; justify-content: space-between;"> <br>
